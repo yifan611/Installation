@@ -8,7 +8,20 @@
 
 
 
-  ## Installation Steps:
+## Installation Steps:
   
-  Step1. Go to MySQL website https://dev.mysql.com/downloads/, choose [MySQL Community Server](https://dev.mysql.com/downloads/mysql/), for macOS system. 
+### Step1. 
+
+Go to MySQL website https://dev.mysql.com/downloads/, choose [MySQL Community Server](https://dev.mysql.com/downloads/mysql/), for macOS system. 
+![](https://github.com/yifan611/Installation/blob/main/img/sql/1.png)
+  
+* Choose dmg archive
+![](https://github.com/yifan611/Installation/blob/main/img/sql/2.png)
+  
+* Download directly
+![](https://github.com/yifan611/Installation/blob/main/img/sql/3.png)
+ 
+### Step2.
+Open dmg start to download,choose type of passpord strong or easy 
+![](https://github.com/yifan611/Installation/blob/main/img/sql/5.png)
   
