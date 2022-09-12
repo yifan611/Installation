@@ -22,6 +22,18 @@ Go to MySQL website https://dev.mysql.com/downloads/, choose [MySQL Community Se
 ![](https://github.com/yifan611/Installation/blob/main/img/sql/3.png)
  
 ### Step2.
-Open dmg start to download,choose type of passpord strong or easy 
+* Open dmg start to download,choose type of passpord strong or easy 
 ![](https://github.com/yifan611/Installation/blob/main/img/sql/5.png)
-  
+
+* Set your password and REMEMBER it!!!!!
+Simple password
+![](https://github.com/yifan611/Installation/blob/main/img/sql/6.png)
+
+Complicate password (Do a Screenshot)
+![](https://github.com/yifan611/Installation/blob/main/img/sql/7.png)
+
+
+* Check to see the system
+![](https://github.com/yifan611/Installation/blob/main/img/sql/9.png)
+![](https://github.com/yifan611/Installation/blob/main/img/sql/8.png)
+ 
