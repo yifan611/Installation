@@ -53,4 +53,3 @@ Strong password, like 123Abc! (Do a Screenshot)
 ![](https://github.com/yifan611/Installation/blob/main/img/sql/14.png)
 
 ![](https://github.com/yifan611/Installation/blob/main/img/sql/15.png)
-
